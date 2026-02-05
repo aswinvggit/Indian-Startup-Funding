@@ -18,6 +18,13 @@ This project analyzes a dataset containing funding details of Indian startups, i
 
 The dataset has 3044 rows and 10 columns, contains funding information for Indian startups, includes details such as the funding date, the city where the startup is based, the names of the investors, and the amount invested (in USD).
 
+## EDA & Visualizations
+
+- Bar chart
+- Pie chart
+- boxplot
+- Scatter plot
+
 ## Findings
     
 - Majority of the startups are from **consumer internet** industry.
