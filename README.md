@@ -18,6 +18,16 @@ This project analyzes a dataset containing funding details of Indian startups, i
 
 The dataset has 3044 rows and 10 columns, contains funding information for Indian startups, includes details such as the funding date, the city where the startup is based, the names of the investors, and the amount invested (in USD).
 
+## Findings
+    
+- Majority of the startups are from **consumer internet** industry.
+- Most of the investment type is in **seed funding** & **private equity**.
+- **Transportation** industry has the highest average funding.
+- Startups based in **Kerala** are less funded.
+- Most of the startups are from **Tier-3** category.
+- Indian startups received their highest funding in the year 2017.
+- In many startups, the name of the investor is undisclosed, at the same time Ratan Tata has invested in more startups. 
+
 ## Insights
 
 - Indian startups are mostly from the "consumer internet" industry.
