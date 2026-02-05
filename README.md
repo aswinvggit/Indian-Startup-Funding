@@ -13,3 +13,7 @@ Libraries
 pandas is used for data loading and manipulation.
 numpy supports numerical operations.
 matplotlib, plotly and seaborn are used for data visualization and plotting.
+
+Dataset
+
+The dataset has 3044 rows and 10 columns, contains funding information for Indian startups, includes details such as the funding date, the city where the startup is based, the names of the investors, and the amount invested (in USD).
